@@ -7,3 +7,5 @@
 เอาไปเลย : [Link](https://github.com/GoRyuuO/SecretKey/blob/main/AffanK.jpg)
 
 หมายเหตุ - สงสัยอะไรดูที่ [issues](https://github.com/GoRyuuO/SecretKey/issues)
+
+> **กุกกัก กุกกัก
